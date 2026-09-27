@@ -1,6 +1,8 @@
 # Lab 1: Introduction to Digital Logic
 ## Instalation of Logisim evaluation :
-![](https://github.com/Shabib145/ECE-2112_2410006/blob/main/lab_reports/images/lab_1/Screenshot%202026-07-23%20163200.png?raw=true)
+
+<img width="836" height="533" alt="image" src="https://github.com/user-attachments/assets/f94ff62c-6380-4f7b-9e57-854596494d57" />
+
 ## Experiment 1: OR Gate Using NOR Gates
 
 ### Objective
@@ -37,7 +39,7 @@ $$
 3. The output of the second NOR gate is the OR result.
 
  
-![Circuit output](https://github.com/Shabib145/ECE-2112_2410006/blob/main/lab_reports/images/lab_1/Screenshot%202026-07-26%20000106.png?raw=true)
+<img width="674" height="218" alt="image" src="https://github.com/user-attachments/assets/c6d7cc69-947d-4569-bb91-e56105b5aad3" />
 
 ### Output Table
 
@@ -93,7 +95,8 @@ $$
 3. Connect both inverted signals to a third NAND gate.
 4. The final output is `A OR B`.
 
-![Final NAND connection](https://github.com/Shabib145/ECE-2112_2410006/blob/main/lab_reports/images/lab_1/Screenshot%202026-07-25%20235720.png?raw=true)
+<img width="717" height="359" alt="image" src="https://github.com/user-attachments/assets/f70c17bd-d841-4972-a13f-63aa5b641091" />
+
 
 ### Output Table
 
@@ -142,7 +145,7 @@ $$
 
  
 
-![Final NOR connection](https://github.com/Shabib145/ECE-2112_2410006/blob/main/lab_reports/images/lab_1/Screenshot%202026-07-25%20235918.png?raw=true)
+<img width="741" height="297" alt="image" src="https://github.com/user-attachments/assets/a3a31725-44aa-42cb-98b0-9b18500943c7" />
 
 ### Output Table
 
@@ -153,9 +156,7 @@ $$
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-![Test result](./image-10.png)
 
-![Test result](./image-11.png)
 
 ### Conclusion
 
@@ -191,7 +192,8 @@ $$
 
  
 
-![NAND gate used as an inverter](https://github.com/Shabib145/ECE-2112_2410006/blob/main/lab_reports/images/lab_1/Screenshot%202026-07-26%20000006.png?raw=true)
+<img width="721" height="245" alt="image" src="https://github.com/user-attachments/assets/33450939-995c-4a78-bb9a-031e1b0b4ffa" />
+
 
 ### Output Table
 
@@ -227,7 +229,8 @@ $$
 1. Connect input `A` to both NOR inputs.
 2. Take the NOR output as `Y`.
 
-![NOR inverter circuit](https://github.com/Shabib145/ECE-2112_2410006/blob/main/lab_reports/images/lab_1/notor.png?raw=true)
+<img width="399" height="174" alt="image" src="https://github.com/user-attachments/assets/46411db9-b319-49df-ba33-ecf4ece409a9" />
+
 
 ### Output Table
 
@@ -263,7 +266,7 @@ $$
 1. Connect input `A` to both NAND inputs.
 2. Observe the output.
 
-![NAND inverter circuit](https://github.com/Shabib145/ECE-2112_2410006/blob/main/lab_reports/images/lab_1/notand.png?raw=true)
+<img width="389" height="168" alt="image" src="https://github.com/user-attachments/assets/fdc3c6fc-6c4a-4056-b54e-7170ad9014fd" />
 
 ### Output Table
 
@@ -327,7 +330,8 @@ Cout = (A · B) + [Cin · (A ⊕ B)]
 | 1 | 1 | 0 | 0 | 1 |
 | 1 | 1 | 1 | 1 | 1 |
 
-![Test result](https://github.com/Shabib145/ECE-2112_2410006/blob/main/lab_reports/images/lab_1/Screenshot%202026-07-26%20000154.png?raw=true)
+<img width="870" height="443" alt="image" src="https://github.com/user-attachments/assets/3e4a90ff-d651-47a6-9545-cb925640933a" />
+
 
 ### Conclusion
 
@@ -362,7 +366,8 @@ For values from `0` to `9`, one BCD digit is enough. Values from `10` to `15` ne
 
  
 
-![BCD output circuit](https://github.com/Shabib145/ECE-2112_2410006/blob/main/lab_reports/images/lab_1/bcd.png?raw=true)
+<img width="774" height="516" alt="image" src="https://github.com/user-attachments/assets/78f336fd-ad16-4b66-a812-b46360ba0123" />
+
 
 ### Example Results
 
@@ -381,4 +386,4 @@ The circuit converted binary values into BCD form. Such converters are commonly 
 
 ---
 
-# End of Lab 1 Report
+
